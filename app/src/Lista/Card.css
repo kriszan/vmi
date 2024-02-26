@@ -1,0 +1,36 @@
+.card {
+    display: block;
+    overflow: hidden;
+    height: 37vw;
+    width: 25vw;
+}
+
+.card img {
+    width: 25vw;
+    height: 37vw;
+    transition: .65s ease-in-out;
+}
+
+.card div {
+    background-color: rgba(0, 0, 0, 0.178);
+    transform: translateY(0);
+    transition: .65s ease-in-out;
+    text-align: center;
+    visibility: hidden;
+}
+
+.card div p {
+    color: white;
+    font-size: 2.5vw;
+}
+
+.card:hover img {
+    filter: blur(5px) brightness(50%);
+}
+
+.card:hover div {
+    transform: translateY(-22vw);
+    visibility: visible;
+}
+
+
