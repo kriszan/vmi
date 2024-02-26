@@ -1,6 +1,12 @@
+import Navbar from "./Navbar";
+import Footer from "./Footer";
+import Lapozgatosizegenyo from "./Lapozgatosizegenyo";
+
 function App() {
-  return (
-    <p>alma</p>
+  return (<>
+    <Navbar/>
+    <Lapozgatosizegenyo/>
+    <Footer/></>
   )
 }
 
