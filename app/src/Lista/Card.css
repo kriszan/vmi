@@ -1,13 +1,13 @@
 .card {
     display: block;
     overflow: hidden;
-    height: 37vw;
-    width: 25vw;
+    height: 35.15vw;
+    width: 23.75vw;
 }
 
 .card img {
-    width: 25vw;
-    height: 37vw;
+    height: 35.15vw;
+    width: 23.75vw;
     transition: .65s ease-in-out;
 }
 
