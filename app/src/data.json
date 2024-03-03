@@ -1,86 +1,499 @@
 [
     {
         "id": 0,
-        "name": "Düne - Második rész",
-        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5783D2R.jpg",
-        "discription": "Egy film dünékről",
-        "cost": 1500
+        "name": "Éjszakai merülés",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6125D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 5127
     },
     {
         "id": 1,
-        "name": "Kung Fu Panda 4",
-        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6222D2R.jpg",
-        "discription": "Egy film pandákról",
-        "cost": 1690
+        "name": "Előző életek",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5925S2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 246
     },
     {
         "id": 2,
-        "name": "Düne - Második rész",
-        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5783D2R.jpg",
-        "discription": "Egy film dünékről",
-        "cost": 1500
+        "name": "A fiú és a szürke gém",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6174D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 993
     },
     {
         "id": 3,
-        "name": "Kung Fu Panda 4",
-        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6222D2R.jpg",
-        "discription": "Egy film pandákról",
-        "cost": 1690
+        "name": "Ferrari",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6127D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 2112
     },
     {
         "id": 4,
-        "name": "Düne - Második rész",
-        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5783D2R.jpg",
-        "discription": "Egy film dünékről",
-        "cost": 1500
+        "name": "Halloweeni körhinta",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6180D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 6940
     },
     {
         "id": 5,
-        "name": "Kung Fu Panda 4",
-        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6222D2R.jpg",
-        "discription": "Egy film pandákról",
-        "cost": 1690
+        "name": "Wonka",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5948D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 5390
     },
     {
         "id": 6,
-        "name": "Düne - Második rész",
-        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5783D2R.jpg",
-        "discription": "Egy film dünékről",
-        "cost": 1500
+        "name": "Hullaadás",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6170D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 4518
     },
     {
         "id": 7,
-        "name": "Kung Fu Panda 4",
-        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6222D2R.jpg",
-        "discription": "Egy film pandákról",
-        "cost": 1690
+        "name": "Kacsalábon",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5935D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 5061
     },
     {
         "id": 8,
-        "name": "Düne - Második rész",
-        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5783D2R.jpg",
-        "discription": "Egy film dünékről",
-        "cost": 1500
+        "name": "Egy zuhanás anatómiája",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6026S2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 1254
     },
     {
         "id": 9,
-        "name": "Kung Fu Panda 4",
-        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6222D2R.jpg",
-        "discription": "Egy film pandákról",
-        "cost": 1690
+        "name": "Semmelweis",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5995O2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 877
     },
     {
         "id": 10,
-        "name": "Düne - Második rész",
-        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5783D2R.jpg",
-        "discription": "Egy film dünékről",
-        "cost": 1500
+        "name": "Kívánság",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5806D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 1168
     },
     {
         "id": 11,
+        "name": "Fűrész X",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5963D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 5231
+    },
+    {
+        "id": 12,
+        "name": "Most vagy soha! - Közönségtalálkozó",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5545O2R1.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 4707
+    },
+    {
+        "id": 13,
+        "name": "Most vagy soha!",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5545O2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 5651
+    },
+    {
+        "id": 14,
+        "name": "Téli szünet",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6250S2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 2324
+    },
+    {
+        "id": 15,
+        "name": "Dűne - Második rész",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5783D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 2160
+    },
+    {
+        "id": 16,
+        "name": "Bálnák: A bolygó őrei",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5718D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 5359
+    },
+    {
+        "id": 17,
+        "name": "Demon Slayer - To the Hashira Training (Kimetsu No Yaiba)",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6328S2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 4062
+    },
+    {
+        "id": 18,
+        "name": "Lefkovicsék gyászolnak",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6306O2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 3539
+    },
+    {
+        "id": 19,
+        "name": "Kutya és macska",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6293D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 6093
+    },
+    {
+        "id": 20,
+        "name": "Tökéletes napok",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6239S2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 2700
+    },
+    {
+        "id": 21,
+        "name": "Bob Marley: One Love",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5936S2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 540
+    },
+    {
+        "id": 22,
+        "name": "Egy élet",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6290S2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 3650
+    },
+    {
+        "id": 23,
+        "name": "Érdekvédelmi terület",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6223D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 246
+    },
+    {
+        "id": 24,
+        "name": "Madame Web",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6218D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 1801
+    },
+    {
+        "id": 25,
+        "name": "Legeslegjobb barátok",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5895D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 2896
+    },
+    {
+        "id": 26,
+        "name": "Emma és a fekete jaguár",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6247D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 5496
+    },
+    {
+        "id": 27,
+        "name": "Priscilla",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6274D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 2814
+    },
+    {
+        "id": 28,
+        "name": "A fattyú",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6220D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 2457
+    },
+    {
+        "id": 29,
+        "name": "Argylle: A szuperkém",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6103D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 6169
+    },
+    {
+        "id": 30,
+        "name": "Csábító leckék",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6260D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 650
+    },
+    {
+        "id": 31,
+        "name": "A szabadság hangja",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6017D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 6747
+    },
+    {
+        "id": 32,
+        "name": "Szegény párák",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5880S2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 3993
+    },
+    {
+        "id": 33,
+        "name": "Imádlak utálni",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6161D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 4482
+    },
+    {
+        "id": 34,
+        "name": "A méhész",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6181D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 2169
+    },
+    {
+        "id": 35,
+        "name": "Belu - A legbátrabb bálna",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6281D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 6525
+    },
+    {
+        "id": 36,
+        "name": "Ki hitte volna?",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6344D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 1863
+    },
+    {
+        "id": 37,
+        "name": "Cabrini - A szent",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6432D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 4407
+    },
+    {
+        "id": 38,
+        "name": "Az első ómen",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6323D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 249
+    },
+    {
+        "id": 39,
+        "name": "A Majomember",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6372D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 910
+    },
+    {
+        "id": 40,
+        "name": "Szellemirtók - A borzongás birodalma",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6216D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 284
+    },
+    {
+        "id": 41,
+        "name": "Back to Black",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6390S2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 2394
+    },
+    {
+        "id": 42,
+        "name": "Challengers",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5907D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 6630
+    },
+    {
+        "id": 43,
+        "name": "Robotálmok",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6289D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 5772
+    },
+    {
+        "id": 44,
+        "name": "Abigail",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6322D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 1601
+    },
+    {
+        "id": 45,
+        "name": "A kaszkadőr",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6179D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 989
+    },
+    {
+        "id": 46,
+        "name": "A majmok bolygója: A birodalom",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6209D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 4758
+    },
+    {
+        "id": 47,
+        "name": "Furiosa: Történet a Mad Maxből",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6273D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 1806
+    },
+    {
+        "id": 48,
+        "name": "Garfield",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6215D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 347
+    },
+    {
+        "id": 49,
+        "name": "Agymanók 2",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6204D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 4472
+    },
+    {
+        "id": 50,
+        "name": "Motorosok",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6324D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 6641
+    },
+    {
+        "id": 51,
+        "name": "Hang nélkül: Első nap",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6410D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 1235
+    },
+    {
+        "id": 52,
+        "name": "Gru 4",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6361D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 584
+    },
+    {
+        "id": 53,
+        "name": "A róka - Kerekasztal-beszélgetés",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5845S2R1.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 3938
+    },
+    {
+        "id": 54,
+        "name": "A róka",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5845S2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 6027
+    },
+    {
+        "id": 55,
+        "name": "A három testőr Milady",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6160D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 486
+    },
+    {
+        "id": 56,
+        "name": "Képzeletbeli",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6217D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 3645
+    },
+    {
+        "id": 57,
+        "name": "Bajos csajok",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6342S2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 5153
+    },
+    {
+        "id": 58,
+        "name": "Baghead - Holtakkal suttogó",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6296D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 4823
+    },
+    {
+        "id": 59,
+        "name": "A repülő osztály",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6345D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 719
+    },
+    {
+        "id": 60,
+        "name": "Bernadette - A főnökasszony",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6359D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 5050
+    },
+    {
+        "id": 61,
+        "name": "Kálmán-nap",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6378O2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 6362
+    },
+    {
+        "id": 62,
+        "name": "Vaskarom",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6208D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 6688
+    },
+    {
+        "id": 63,
         "name": "Kung Fu Panda 4",
         "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6222D2R.jpg",
-        "discription": "Egy film pandákról",
-        "cost": 1690
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 4661
+    },
+    {
+        "id": 64,
+        "name": "Artúr, a király",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6246D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 5087
+    },
+    {
+        "id": 65,
+        "name": "Godzilla x Kong: Az új birodalom",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6272D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 1194
+    },
+    {
+        "id": 66,
+        "name": "A szenvedély íze",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6126D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 5584
+    },
+    {
+        "id": 67,
+        "name": "Lassie - Állati mentőakció",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5887D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 4320
+    },
+    {
+        "id": 68,
+        "name": "Masha és a medve 2 - Dupla móka",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6066D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 3930
+    },
+    {
+        "id": 69,
+        "name": "Trollok: Együtt a banda",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5851D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 6170
+    },
+    {
+        "id": 70,
+        "name": "Mancs őrjárat: A szuperfilm",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5863D2R.jpg",
+        "discription": "az employeeknak nem fizettek eleget, ahhoz hogy legyen leírás a filmekről",
+        "cost": 2986
     }
 ]

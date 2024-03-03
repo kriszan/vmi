@@ -11,7 +11,7 @@
 }
 
 .search-container {
-    margin-top: 10px;
+    padding-top: 10px;
     margin-bottom: 10px;
     width: 100%;
 }
@@ -19,8 +19,14 @@
 .search-container input {
     width: 100%;
     border: 0;
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid var(--contactcolortext);
+    color: var(--contactcolortexthighlight);
     padding: 0;
+    background-color: transparent;
+}
+
+.search-container input::placeholder {
+    color: var(--contactcolortext);
 }
 
 .search-container input:focus {
@@ -28,7 +34,7 @@
 }
 
 .search-container div {
-    border-bottom: 1px solid rgb(167, 0, 167);
+    border-bottom: 1px solid var(--contactcolortexthighlight);
     width: 0%;
     transition: width 0.75s ease-in-out;
 }
