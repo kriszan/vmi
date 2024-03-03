@@ -13,11 +13,14 @@ export default function List() {
 
     return (
         <>
-        <div> 
-            <input type="text" id="searchbar" onChange={search}/>
-        </div>
-        <div className="container">
-            {list.map(e => <Card src={e.img} name={e.name} key={e.id}/>)}
+        <div className="list-container">
+            <div className="search-container">
+                <input type="text" id="searchbar" placeholder="search..." onChange={search}/>
+                <div></div>
+            </div>
+            <div className="card-container">
+                {list.map(e => <Card src={e.img} name={e.name} key={e.id}/>)}
+            </div>
         </div>
         </>
     )

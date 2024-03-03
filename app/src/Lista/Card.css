@@ -6,12 +6,12 @@
     display: block;
     overflow: hidden;
     aspect-ratio: 0.67 / 1;
-    width: calc(100vw / var(--gridSize) - 20px);
+    width: calc(90vw / var(--gridSize) - 20px);
 }
 
 .card img {
     aspect-ratio: 0.67 / 1;
-    width: calc(100vw / var(--gridSize) - 20px);
+    width: calc(90vw / var(--gridSize) - 20px);
     transition: filter .65s ease-in-out;
 }
 

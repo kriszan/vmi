@@ -1,5 +1,38 @@
-.container {
+.card-container {
     display: flex;
     flex-wrap: wrap;
     gap: 5px;
+    justify-content: space-between;
+}
+
+.list-container {
+    width: 90%;
+    margin: auto;
+}
+
+.search-container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.search-container input {
+    width: 100%;
+    border: 0;
+    border-bottom: 1px solid gray;
+    padding: 0;
+}
+
+.search-container input:focus {
+    outline: none;
+}
+
+.search-container div {
+    border-bottom: 1px solid rgb(167, 0, 167);
+    width: 0%;
+    transition: width 0.75s ease-in-out;
+}
+
+.search-container:focus-within div {
+    width: 100%;
 }
