@@ -1,0 +1,5 @@
+.listing {
+    display: inline-flex;
+    overflow-x: scroll;
+    gap: 5px;
+}
