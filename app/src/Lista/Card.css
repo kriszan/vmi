@@ -7,6 +7,7 @@
     overflow: hidden;
     aspect-ratio: 0.67 / 1;
     width: calc(90vw / var(--gridSize) - 20px);
+    container-type: size;
 }
 
 .card img {
@@ -24,7 +25,7 @@
 
 .card div p {
     color: white;
-    font-size: 2.5vw;
+    font-size: 1.5vw;
 }
 
 .card:hover img {
@@ -32,7 +33,7 @@
 }
 
 .card:hover div {
-    transform: translateY(-22vw);
+    transform: translateY(-60cqh);
     visibility: visible;
 }
 
