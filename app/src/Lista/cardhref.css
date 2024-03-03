@@ -1,20 +1,15 @@
-.cardimg{
-    object-fit: cover;
-  width: 100%;
-  max-height: 100%;
-}
-h1{
-    text-align: center;
-    text-decoration: underline var(--navbg);
-    margin: 0;
+.cardimg {
+  max-width: 20vh;
+  border: 5px solid;
+  border-image: linear-gradient(45deg, var(--contactbg), var(--containerbg), var(--navbg)) 1;
 }
 
-.border {
-    display: grid;
-    border: 5px solid;
-    border-image: linear-gradient(45deg, var(--contactbg),var(--containerbg), var(--navbg)) 1;
-    padding: 0.1rem;
-    width: 20vh;
-    align-items: center;    
-    float: left;
-  }
+h1 {
+  text-align: center;
+  text-decoration: underline var(--navbg);
+  margin: 0;
+}
+.mindenis{
+  float: right;
+  align-items: center;
+}

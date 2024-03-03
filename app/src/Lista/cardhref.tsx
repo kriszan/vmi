@@ -2,15 +2,15 @@ import "../Lista/cardhref.css"
 import data from "../data.json"
 import { useParams } from "react-router-dom";
 export default function Listing() {
-    const {id} = useParams();
+    const { id } = useParams();
     let enyem = {
         name: "",
         img: "",
         discription: "",
-        cost:0
+        cost: 0
     };
     data.forEach(element => {
-        if(element.id.toString() == id){
+        if (element.id.toString() == id) {
             enyem = element;
             return;
         }
@@ -18,12 +18,12 @@ export default function Listing() {
     return (
         <div className="container">
             <h1>{enyem.name}</h1>
-            <div className="border"><img className="cardimg" src={enyem.img} alt="img"/></div>
-            <p className="description">{enyem.discription}</p>
-            <div>
-                <a style={{fontWeight: "bold"}}>A jegy ára: </a><a>{enyem.cost} Ft</a><br/>
+            <img className="cardimg" src={enyem.img} alt="img" />
+            <div className="mindenis">
+                <p className="description">{enyem.discription}</p>
+                <a style={{ fontWeight: "bold" }}>A jegy ára: </a><a>{enyem.cost} Ft</a><br />
                 <button disabled>Jegyvásárlás</button>
             </div>
-        </div> 
+        </div>
     )
 }
