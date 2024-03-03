@@ -34,6 +34,7 @@
     scrollbar-width: none;
     scroll-snap-type: x mandatory;
     scroll-padding: 2.5px;
+    background-color: var(--containerbg);
 }
 
 .listing::before, .listing::after {

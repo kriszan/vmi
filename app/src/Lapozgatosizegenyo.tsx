@@ -1,5 +1,4 @@
 import { Component } from "react";
-import "./lapozgatos.css";
 import Listing from "./Lista/Listing";
 
 

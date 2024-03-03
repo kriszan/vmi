@@ -1,31 +1,33 @@
+
 .container {
     padding-left: 2vw;
     padding-right: 2vw;
 }
 
 .NavA:link {
-    color: red;
+    color: var(--link);
+    text-decoration:none ;
 }
 
 .NavA:hover {
-    color: hotpink;
+    color: var(--linkhover);
 }
 
 .NavA:active {
-    color: blue;
+    color: var(--linkactive);
 }
 
 .NavBar {
-    background-color: aqua;
+    background-color: var(--navbg);
     align-items: center;
-    border-radius: 5px;
+    border-radius: 5px 5px 0px 0px;
     font-size: 2vh;
 }
 
 
 .Contact {
-    border-radius: 5px;
-    background-color: gray;
+    border-radius: 0px 0 5px 5px; 
+    background-color: var(--contactbg);
     display: flex;
     justify-content: center;
     font-size: 1.5vh;
@@ -38,31 +40,6 @@
 }
 
 .CHeadline {
-    border-left: 2px solid blue;
+    border-left: 2px solid var(--contactcolor);
     padding-left: 5px;
-}
-
-.Lapozgatosizegenyo {
-    background-color: brown;
-    height: 500px;
-    display: flex;
-    align-items: center;
-    border-radius: 5px;
-}
-.Button {
-    height: 3vh;
-    width: 5vh;
-    margin: 1vh;
-}
-
-.LeftButton{
-    float: left;
-    content: "<--";
-}
-.Centeredrow{
-    width: 100%;
-}
-.RightButton{
-    float: right;
-    content: "-->";
 }
