@@ -8,11 +8,11 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={ <Layout/> }>
+        <Route index element={ <MainPage/>}/>
           <Route path="list" element={ <List/>}/>
         </Route>
       </Routes>
     </BrowserRouter>
-    <MainPage/>
     </>
   )
 }

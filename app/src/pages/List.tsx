@@ -12,7 +12,7 @@ export default function List() {
     }
 
     return (
-        <>
+        <div className="container">
         <div className="list-container">
             <div className="search-container">
                 <input type="text" id="searchbar" placeholder="search..." onChange={search}/>
@@ -22,6 +22,6 @@ export default function List() {
                 {list.map(e => <Card src={e.img} name={e.name} key={e.id}/>)}
             </div>
         </div>
-        </>
+        </div>
     )
 }

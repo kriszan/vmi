@@ -1,0 +1,18 @@
+:root{
+    --navbg : #2FBBDA;
+    --containerbg : #CBEEF6;
+    --contactbg: #B9E8F3;
+    --contactcolor: #1B7F9D;
+
+    --link: red;
+    --linkhover: white;
+    --linkactive: red;
+    --linkvisited: red;
+}
+
+.container {
+    padding-left: 2vw;
+    padding-right: 2vw;
+    margin-top: 0;
+    background-color: #1B7F9D;
+}
