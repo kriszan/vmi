@@ -1,4 +1,15 @@
-.cardimg{
-    display: flex;
-    float: left;
+.cardimg {
+  max-width: 20vh;
+  border: 5px solid;
+  border-image: linear-gradient(45deg, var(--contactbg), var(--containerbg), var(--navbg)) 1;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline var(--navbg);
+  margin: 0;
+}
+.mindenis{
+  float: right;
+  align-items: center;
 }

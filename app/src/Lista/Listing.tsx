@@ -7,13 +7,9 @@ import rightArrow from "../public/right-arrow.png";
 export default function Listing({limit} : {limit? : number}) {
     if (limit) data.slice(0, limit);
     return (
-        <div className="listing-container">
-            <button onClick={() => scroll(-350)}><img src={leftArrow}/></button>
-            <div className="listing">
-                {data.map(e => <Card src={e.img} name={e.name} key={e.id}/>)}
-            </div> 
-            <button onClick={() => scroll(350)}><img src={rightArrow}/></button>
-        </div>
+        <div className="listing">
+            {data.map(e => <Card src={e.img} name={e.name} id={e.id} key={e.id}/>)}
+        </div> 
     )
 }
 

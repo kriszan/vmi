@@ -65,3 +65,7 @@
 .listing .card, .listing .card img {
     width: 10vw;
 }
+
+.search-container{
+    margin-top: 0;
+}
