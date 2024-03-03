@@ -1,18 +1,18 @@
-import  { Component } from "react";
-import "./navbar.css";
+import { Component } from "react";
+import "./lapozgatos.css";
+import Listing from "./Lista/Listing";
+
+
+
 
 export default class Navbar extends Component {
     render() {
-        return (<>
-        <div id="Lapozgatosizegenyo" className="Lapozgatosizegenyo">
-            
-
-            <div className="Centeredrow">
-                <button className="LeftButton Button" content="<--"></button>
-                <button className="RightButton Button" content="-->"></button>
+        return (<div className="lapozgatosizegenyo">
+            <div className="container">
+                {<Listing limit={3}></Listing>}
             </div>
+
         </div>
-        </>
         );
     }
 }
