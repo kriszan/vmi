@@ -8,7 +8,7 @@ export default class Navbar extends Component {
     render() {
         return (<div className="lapozgatosizegenyo">
             <div className="container">
-                {<Listing limit={3}></Listing>}
+                {<Listing></Listing>}
             </div>
 
         </div>

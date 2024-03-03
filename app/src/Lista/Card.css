@@ -8,6 +8,7 @@
     aspect-ratio: 0.67 / 1;
     width: calc(90vw / var(--gridSize) - 20px);
     container-type: size;
+    cursor: pointer;
 }
 
 .card img {

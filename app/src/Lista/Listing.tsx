@@ -5,11 +5,17 @@ import leftArrow from "../public/left-arrow.png";
 import rightArrow from "../public/right-arrow.png";
 
 export default function Listing({limit} : {limit? : number}) {
-    if (limit) data.slice(0, limit);
+    let list;
+    if (limit) list = data.slice(0, limit);
+    else list = data;
     return (
+        <div className="listing-container">
+        <button onClick={() => scroll(-350)}><img src={leftArrow}/></button>
         <div className="listing">
-            {data.map(e => <Card src={e.img} name={e.name} id={e.id} key={e.id}/>)}
+            {list.map(e => <Card src={e.img} name={e.name} key={e.id} id={e.id}/>)}
         </div> 
+        <button onClick={() => scroll(350)}><img src={rightArrow}/></button>
+    </div>
     )
 }
 

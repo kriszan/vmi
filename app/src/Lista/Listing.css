@@ -1,6 +1,7 @@
 .listing-container {
     display: flex;
     align-items: center;
+    position: relative;
 }
 
 .listing-container button, .listing-container button img {
@@ -14,10 +15,11 @@
 .listing-container button {
     width: 4vw;
     outline: none;
+    cursor: pointer;
 }
 
 .listing-container button img {
-    transition: filter 0.1s linear;
+    transition: filter 0.2s linear;
 }
 
 .listing-container button:hover img {
@@ -50,8 +52,7 @@
 .listing::after {
     right: 0;
     background-image: linear-gradient(to left, rgba(0, 0, 0, 0.46), rgba(0, 0, 0, 0));
-    transform: translateX(-57%)
-
+    transform: translateX(-37.5%)
 }
 
 .listing div {

@@ -11,6 +11,9 @@ export default function List() {
         setList(filtered);
     }
 
+    window.addEventListener("resize", resize);
+    resize();
+
     return (
         <div className="container">
         <div className="list-container">
@@ -19,9 +22,14 @@ export default function List() {
                 <div></div>
             </div>
             <div className="card-container">
-                {list.map(e => <Card src={e.img} name={e.name} key={e.id}/>)}
+                {list.map(e => <Card src={e.img} name={e.name} key={e.id} id={e.id}/>)}
             </div>
         </div>
         </div>
     )
+}
+
+function resize() {
+    document.documentElement.style.setProperty('--gridSize', Math.round(window.innerWidth * 0.9 / 250).toString());
+    console.log(Math.round(window.innerWidth / 250));
 }
