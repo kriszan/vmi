@@ -1,9 +1,10 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import List from "./pages/List";
 import Layout from "./pages/Layout"
+import MainPage from "./MainPage";
 
 function App() {
-  return (
+  return (<>
     <BrowserRouter>
       <Routes>
         <Route path="/" element={ <Layout/> }>
@@ -11,6 +12,8 @@ function App() {
         </Route>
       </Routes>
     </BrowserRouter>
+    <MainPage/>
+    </>
   )
 }
 
