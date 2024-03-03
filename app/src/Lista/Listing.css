@@ -1,9 +1,71 @@
+.listing-container {
+    display: flex;
+    align-items: center;
+}
+
+.listing-container button, .listing-container button img {
+    height: 5vw;
+    background-color: transparent;
+    border: 0;
+    align-self: center;
+    width: 3vw;
+}
+
+.listing-container button {
+    width: 4vw;
+    outline: none;
+}
+
+.listing-container button img {
+    transition: filter 0.1s linear;
+}
+
+.listing-container button:hover img {
+    filter:contrast(10%)
+}
+
 .listing {
-    display: inline-flex;
-    overflow-x: scroll;
-    gap: 5px;
+    width: 100%;
+    display: grid;
+    grid-auto-flow: column;
+    gap: 0.5vw;
+    overflow-x: auto;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    scroll-snap-type: x mandatory;
+    scroll-padding: 2.5px;
     background-color: var(--containerbg);
 }
+
+.listing::before, .listing::after {
+    position: absolute;
+    content: "";
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.46), rgba(0, 0, 0, 0));
+    height: 100%;
+    width: 10vw;
+    z-index: 99;
+    pointer-events: none;
+}
+
+.listing::after {
+    right: 0;
+    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.46), rgba(0, 0, 0, 0));
+    transform: translateX(-57%)
+
+}
+
+.listing div {
+    scroll-snap-align: start;
+}
+
+.listing::-webkit-scrollbar {
+    display: none;
+}
+
+.listing .card, .listing .card img {
+    width: 10vw;
+}
+
 .search-container{
     margin-top: 0;
 }

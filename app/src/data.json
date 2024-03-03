@@ -26,5 +26,61 @@
         "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6222D2R.jpg",
         "discription": "Egy film pandákról",
         "cost": 1690
+    },
+    {
+        "id": 4,
+        "name": "Düne - Második rész",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5783D2R.jpg",
+        "discription": "Egy film dünékről",
+        "cost": 1500
+    },
+    {
+        "id": 5,
+        "name": "Kung Fu Panda 4",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6222D2R.jpg",
+        "discription": "Egy film pandákról",
+        "cost": 1690
+    },
+    {
+        "id": 6,
+        "name": "Düne - Második rész",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5783D2R.jpg",
+        "discription": "Egy film dünékről",
+        "cost": 1500
+    },
+    {
+        "id": 7,
+        "name": "Kung Fu Panda 4",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6222D2R.jpg",
+        "discription": "Egy film pandákról",
+        "cost": 1690
+    },
+    {
+        "id": 8,
+        "name": "Düne - Második rész",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5783D2R.jpg",
+        "discription": "Egy film dünékről",
+        "cost": 1500
+    },
+    {
+        "id": 9,
+        "name": "Kung Fu Panda 4",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6222D2R.jpg",
+        "discription": "Egy film pandákról",
+        "cost": 1690
+    },
+    {
+        "id": 10,
+        "name": "Düne - Második rész",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/5783D2R.jpg",
+        "discription": "Egy film dünékről",
+        "cost": 1500
+    },
+    {
+        "id": 11,
+        "name": "Kung Fu Panda 4",
+        "img": "https://www.cinemacity.hu/xmedia-cw/repo/feats/posters/6222D2R.jpg",
+        "discription": "Egy film pandákról",
+        "cost": 1690
     }
 ]
