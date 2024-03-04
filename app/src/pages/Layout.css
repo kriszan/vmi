@@ -29,7 +29,9 @@
 }
 
 .page-main {
-    padding-bottom: 14vh;
+    margin-bottom: 14vh;
+    padding-bottom: 10px;
+    padding-top: 10px;
     flex-grow: 1;
     background-color: var(--bg2);
 }
