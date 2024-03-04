@@ -6,9 +6,11 @@ import "./Layout.css"
 export default function Layout() : JSX.Element {
     return (
     <>
-    <Navbar/>
-    <Outlet/>
-    <Footer/>
+    <div className="page-container">
+        <Navbar/>
+        <Outlet/>
+        <Footer/>
+    </div>
     </>
     )
 }
