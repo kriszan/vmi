@@ -1,16 +1,16 @@
 :root{
-    --navbg : #2FBBDA;
-    --containerbg : #CBEEF6;
-    --contactbg: #B9E8F3;
-    --contactcolor: #1B7F9D;
+    --bg1: #2198bd;
+    --bg2: #1B7F9D;
+    --bg3: #B9E8F3;
 
-    --contactcolortext: rgb(216, 216, 216);
-    --contactcolortext: rgb(216, 216, 216);
+    --text: #d8d8d8;
+    --highlight: #eeeeee;
 
-    --link: red;
-    --linkhover: white;
-    --linkactive: red;
-    --linkvisited: red;
+    --brighttext: #e2e2e2;
+    --brighthighlight: #f8f8f8;
+
+    --darktext: #6a6a6a;
+    --darkhighlight: #808080;
 }
 
 .container {
@@ -21,8 +21,21 @@
 }
 
 .page-container {
-    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    min-height: calc(100vh - 16px);
     position: relative;
+    margin: 8px;
+}
+
+.page-main {
+    padding-bottom: 14vh;
+    flex-grow: 1;
+    background-color: var(--bg2);
+}
+
+body {
+    margin: 0;
 }
 
 .Contact {

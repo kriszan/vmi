@@ -8,7 +8,9 @@ export default function Layout() : JSX.Element {
     <>
     <div className="page-container">
         <Navbar/>
-        <Outlet/>
+        <div className="page-main">
+            <Outlet/>
+        </div>
         <Footer/>
     </div>
     </>
