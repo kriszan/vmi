@@ -1,13 +1,13 @@
 .cardimg {
   max-width: 20vh;
   border: 5px solid;
-  border-image: linear-gradient(45deg, var(--contactbg), var(--containerbg), var(--navbg)) 1;
+  border-image: linear-gradient(45deg, var(--bg3), var(--highlight), var(--bg1)) 1;
   margin-bottom: 1vh;
 }
 
 h1 {
   text-align: center;
-  text-decoration: underline var(--navbg);
+  text-decoration: underline var(--bg1);
   margin: 0;
 }
 .majdnemmindenis{
