@@ -17,12 +17,15 @@ export default function Listing() {
     });
     return (
         <div className="container">
+
             <h1>{enyem.name}</h1>
-            <img className="cardimg" src={enyem.img} alt="img" />
-            <div className="mindenis">
-                <p className="description">{enyem.discription}</p>
-                <a style={{ fontWeight: "bold" }}>A jegy ára: </a><a>{enyem.cost} Ft</a><br />
-                <button disabled>Jegyvásárlás</button>
+            <div className="majdnemmindenis">
+                <img className="cardimg" src={enyem.img} alt="img" />
+                <div className="mindenis">
+                    <p className="description">{enyem.discription}</p>
+                    <a style={{ fontWeight: "bold" }}>A jegy ára: </a><a>{enyem.cost} Ft</a><br />
+                    <button disabled>Jegyvásárlás</button>
+                </div>
             </div>
         </div>
     )

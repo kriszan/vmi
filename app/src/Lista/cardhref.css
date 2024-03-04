@@ -2,6 +2,7 @@
   max-width: 20vh;
   border: 5px solid;
   border-image: linear-gradient(45deg, var(--contactbg), var(--containerbg), var(--navbg)) 1;
+  margin-bottom: 1vh;
 }
 
 h1 {
@@ -9,7 +10,7 @@ h1 {
   text-decoration: underline var(--navbg);
   margin: 0;
 }
-.mindenis{
-  float: right;
-  align-items: center;
+.majdnemmindenis{
+  grid-auto-flow: column;
+  display: grid;
 }

@@ -11,7 +11,7 @@ function App() {
         <Route path="/" element={<Layout />}>
           <Route index element={<MainPage />} />
           <Route path="list" element={<List />} />
-          <Route path="/:id" element={<Cardhref/>}/>
+          <Route path="filmek/:id" element={<Cardhref/>}/>
         </Route>
       </Routes>
     </BrowserRouter>
