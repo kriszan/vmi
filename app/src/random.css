@@ -5,14 +5,23 @@
     object-fit: contain;
     border: 5px solid;
     max-width: 70vh;
-  border-image: linear-gradient(45deg, var(--contactbg), var(--containerbg), var(--navbg)) 1;
+    
+  border-image: linear-gradient(45deg, var(--bg1), var(--bg3), var(--bg2)) 1;
 }
-
+.headline{
+    color: var(--darktext);
+}
 .text {
     column-count: 2;
     text-align: justify;
+    color: var(--darktext);
+    margin: 1vw;
 }
 
 .akarmi {
     display: grid;
+    margin: 1vh;
+    border-radius: 5px;
+    background-color: #dbf8ff;
+    padding: 2wv ;
 }
