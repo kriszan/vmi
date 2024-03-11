@@ -10,7 +10,6 @@ export default class Navbar extends React.Component {
                 <a className="NavA" href="/list" style={{ paddingLeft: "5vw" }}>Filmek</a>
                 <a className="NavA" href="#contact" style={{ paddingLeft: "5vw" }}>Elérhetőség</a>
             </nav>
-
         </>
         );
     }
