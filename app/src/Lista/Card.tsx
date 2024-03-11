@@ -5,7 +5,7 @@ export default function Card({ src, name, id }: { src: string, name: string, id 
     const navigate = useNavigate();
 
     const routeChange = (id: number) => {
-        let path = `filmek/${id}`;
+        let path = `/filmek/${id}`;
         navigate(path);
     }
 
